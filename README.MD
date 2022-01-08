@@ -34,4 +34,4 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Clinton Abraham](https://github.com/Clinton-Abraham)
+* [Clinton Abraham](https://github.com/TG-chembanrejum)
