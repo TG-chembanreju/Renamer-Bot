@@ -29,7 +29,9 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 * dthumbnail -  🎇  Delete thumbnail
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/TG-chembanreju/Renamer-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TG-chembanreju)
+
+
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
